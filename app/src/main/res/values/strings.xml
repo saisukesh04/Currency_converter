@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PRACTICE_2</string>
+    
+    <string-array name="currency1">
+        <item>INR</item>
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+
+    <string-array name="currency2">
+    <item>INR</item>
+    <item>USD</item>
+    <item>EUR</item>
+</string-array>
+</resources>
